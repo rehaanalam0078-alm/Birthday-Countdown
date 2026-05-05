@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_premium">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hi... Happy birthday Meher Alam 😂😂. Kaise ho.. i hope sab badhiya hoga ❤️. Pata nhi aab hamari baat horahi hongi yahh nahi. Pr joo v ho khush rehna kabhi v koi baat ho aapno se share karne mai ghabrana mat. i know tum kisi se darti nahi but sochti bht ho tum kuch batane mai. bataya karo jab v Atufa se baat ho yahh mai contact mai rahu toh or pata hai mujhe sabse jada khushi hoti hai jab tum kuch share karti ho mujhse, sach mai. Mai toh tumhari khushi ki wajha banna chahta tha, pr pata nahi kabhi ban v paya ki nahi. khair dua rahegi tumhari zindagi hamesha khushion se bhadi ho 🤲🤲. or yrr kabhi mujhse koi galti hue ho uske liye bht bht sorry kabhi tumhe naraz karne ka intention nhi raha but galti hogai ho toh sorry 🙇‍♂️🙇‍♂️ Or  Sukriya sabhi chizon kiliye or kass tumse baat hoti rahe.   "
+        android:textSize="22sp"
+        android:textColor="#FFFFFF"
+        android:padding="24dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="1dp"
+            android:text="Byee. 😊 "
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="30dp" />
+
+ </LinearLayout>
+
+</ScrollView>

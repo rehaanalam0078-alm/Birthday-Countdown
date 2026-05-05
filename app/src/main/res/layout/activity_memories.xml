@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_premium">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+
+        <ImageView
+            android:id="@+id/p1"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/p1" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="76dp"
+            android:padding="1dp"
+            android:text="Yehh din mujhe hamesha yaad rahega, thanks to you ❤️"
+            android:textColor="#FFFFFF"
+            android:textSize="18dp" />
+
+        <ImageView
+            android:id="@+id/p2"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:src="@drawable/p2" />
+
+        <TextView
+            android:layout_width="376dp"
+            android:layout_height="75dp"
+            android:padding="8dp"
+            android:text="Yaad hai.? maine tumhare samne act kiya tha, On or Nazia ki propsal ki ✨"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/p3"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="100dp"
+            android:src="@drawable/p3"
+            android:rotation="270"/>
+
+
+
+        <TextView
+            android:layout_width="376dp"
+            android:layout_height="100dp"
+            android:padding="8dp"
+            android:text="Out of all the moments that day, the ones with you meant the most.
+I didn't just enjoy it... I cherished every second with you.  ✨"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/p4"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_marginTop="60dp"
+            android:src="@drawable/p4" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="76dp"
+            android:padding="1dp"
+            android:text="pata hai jab tum or sarah khel rahi rhi. Toh kuch dua kiye the, but sayed KHUDA ko manjur nhi hua  😭😭️"
+            android:textColor="#FFFFFF"
+            android:textSize="18dp" />
+
+<ImageView
+    android:id="@+id/p5"
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    android:layout_marginTop="60dp"
+    android:layout_marginBottom="60dp"
+    android:src="@drawable/p5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="76dp"
+            android:padding="1dp"
+            android:text="yehh din toh aab wapas nhi aayenge pr Dua rahegi yehh hassi tumhare chehre pr hamesha rahe ❤️. "
+            android:textColor="#FFFFFF"
+            android:textSize="18dp" />
+
+        <ImageView
+            android:id="@+id/p6"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="90dp"
+            android:src="@drawable/p6"
+          android:rotation="270"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:padding="1dp"
+            android:text="kya aabhi v tumhare pass meri di hui note book hai...? "
+            android:textColor="#FFFFFF"
+            android:textSize="18dp" />
+
+        <ImageView
+            android:id="@+id/p7"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginBottom="90dp"
+            android:src="@drawable/p7"
+            android:rotation="270"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="76dp"
+            android:padding="1dp"
+            android:text="Yehh time kab nikl gaya aandaza v nhi hua. but jitne v time sath rahe humlog kass tuhme woh hamesha yaad rahe."
+            android:textColor="#FFFFFF"
+            android:textSize="18dp" />
+
+        <ImageView
+            android:id="@+id/p8"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_marginTop="60dp"
+            android:src="@drawable/p8"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:padding="1dp"
+            android:text="Kitni aachi lagti ho muskurate hue. 😊 "
+            android:textColor="#FFFFFF"
+            android:textSize="18dp" />
+
+
+
+
+        <Button
+            android:id="@+id/openConfession"
+            android:layout_width="wrap_content"
+            android:layout_height="67dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Final Message 💌" />
+    </LinearLayout>
+</ScrollView>
